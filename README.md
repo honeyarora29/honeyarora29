@@ -23,6 +23,7 @@
  <img alt="JSF" src="https://img.shields.io/badge/-jsf-43853d?style=flat-square&logo=jsf&logoColor=white" />
  <img alt="Primefaces" src="https://img.shields.io/badge/-primefaces-43853d?style=flat-square&logo=primefaces&logoColor=white" />
  <img alt="Plsql" src="https://img.shields.io/badge/-plsql-43853d?style=flat-square&logo=plsql&logoColor=white" />
+ <img alt="Spring MVC" src="https://img.shields.io/badge/-spring-43853d?style=flat-square&logo=spring&logoColor=white" />
  
 </p>
 <h3>About me</h3>
