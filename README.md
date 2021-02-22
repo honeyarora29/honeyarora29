@@ -19,6 +19,8 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-43853d?style=flat-square&logo=jenkins&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/-java-43853d?style=flat-square&logo=java&logoColor=white" />
  <img alt="JSF" src="https://img.shields.io/badge/-jsf-43853d?style=flat-square&logo=jsf&logoColor=white" />
+ <img alt="Primefaces" src="https://img.shields.io/badge/-primefaces-43853d?style=flat-square&logo=primefaces&logoColor=white" />
+ <img alt="Plsql" src="https://img.shields.io/badge/-plsql-43853d?style=flat-square&logo=plsql&logoColor=white" />
  
 </p>
 <h3>About me</h3>
