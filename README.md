@@ -36,7 +36,7 @@
 👯 I’m looking to collaborate on training
      </li>
    <li>
-💬 Ask me anything about React, Node, Redux, Angular, webpack or any frontend related stuff
+💬 Ask me anything about React, Node, Redux, Angular, webpack, jsf, primefaces or any frontend related stuff
      </li>
    <li>
      📫 How to reach me: <a href="https://www.linkedin.com/in/honey-arora-203234b7//"> linkedIn @honey </a>
