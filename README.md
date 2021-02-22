@@ -16,6 +16,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  <img alt="javascript" src="https://img.shields.io/badge/-javascript-E34F26?style=flat-square&logo=javascript&logoColor=white" />
  <img alt="css" src="https://img.shields.io/badge/-css-E34F26?style=flat-square&logo=css&logoColor=white" />
+ <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-maven-43853d?style=flat-square&logo=maven&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-43853d?style=flat-square&logo=jenkins&logoColor=white" />
