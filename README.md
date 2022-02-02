@@ -30,7 +30,7 @@
 <h3>About me</h3>
 <ui>
   <li>
-🔭 I’m currently working at Vitesco Technologies (Continental Automotive Ltd) and Ex-Infocion.
+🔭 I’m currently working at Microsoft.
   </li>
    <li>
 👯 I’m looking to collaborate on training
